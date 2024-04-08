@@ -10,7 +10,7 @@ public class InitDriver {
     public static void driverInit() {
         WebDriverManager.chromedriver().setup();
         driver=new ChromeDriver();
-
+//hello
 
     }
 }
